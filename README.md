@@ -1,1 +1,2 @@
-# spmi_bot
+# SPMI BOT
+Simple telegram bot for SPMI students.
